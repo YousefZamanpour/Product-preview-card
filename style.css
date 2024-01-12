@@ -67,7 +67,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 overflow: hidden;
-/* gap: 16px; */
+margin:.938rem;
 }
 .content{
     padding: 1.5rem;
